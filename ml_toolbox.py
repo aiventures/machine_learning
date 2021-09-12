@@ -167,23 +167,21 @@ def df_rescale(df: DataFrame, scaler=None, rescale_params: bool=True,
     else:
         return df_out
 
-
-
-
-
-
+def df_scaled_inverse(df_scaled: DataFrame, scaler):
+    """ 
+    Returns inverse datframe from rescaled dataframe  
     
+    Parameters
+    ----------
+    df: DataFrame
+        input dataframe with data
+    scaler: Scaler
+        scaler, if None, standard scaler is used
 
-    
+    Returns
+    -------
+    dataframe with original scaling
+    """
+    transformed_data = scaler.inverse_transform(df_scaled.to_numpy())
+    return DataFrame(transformed_data,columns=df_scaled.columns)
 
-    
-
-    
-
-    
-    
-
-    
-    
-
-    
