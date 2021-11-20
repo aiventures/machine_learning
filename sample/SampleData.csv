@@ -1,0 +1,21 @@
+﻿Kontoinhaber;John Doe;;;;;;;;;;;;;
+;;;;;;;;;;;;
+;Prepaid Card Nr. 123456789;;;;;;;;;;;;;
+Saldo (EUR);12,11;;;;;;;;;;;;;
+Zeitraum;01.06.2020 - 15.09.2021;;;;;;;;;;;;;
+;;;;;;;;;;;;
+Nr.;Buchungsdatum;Umsatzart;Umsatzinformation;UCI;Mandat ID;Abweichender Debitor;Abweichender Kreditor;Referenznummer;Wertstellung;Soll (EUR);Haben (EUR)
+1;"10.09.2021";"Prepaid Kartenumsatz";"Store2 KARTENUMSATZ AccounNo 09.09.2021";"";"";"";"";"";"";"20,00";""
+2;"08.09.2021";"Prepaid Kartenumsatz";"Store1 14233 SOT  City2     DE AccounNo 07.09.2021";"";"";"";"";"";"";"11,48";""
+3;"01.06.2021";"Gutschrift Prepaid Card Konto";"GUTSCHRIFT PREPAID CARD KONTO 01.09.2021        IBAN: DE123456789";"";"";"";"";"";"";"";"12,00"
+4;"01.05.2021";"Prepaid Kartenumsatz";"Store2 KARTENUMSATZ AccounNo 31.08.2021";"";"";"";"";"";"";"2,00";""
+5;"01.09.2021";"Prepaid Kartenumsatz";"Store3 KARTENUMSATZ AccounNo 31.08.2021";"";"";"";"";"";"";"7,00";""
+6;"16.02.2021";"Prepaid Kartenumsatz";"Store2  City      DE AccounNo 30.08.2021";"";"";"";"";"";"";"6,27";""
+7;"26.08.2021";"Prepaid Kartenumsatz";"Store3 Marken-Discount  City2     DE AccounNo 25.08.2021";"";"";"";"";"";"";"3,48";""
+8;"23.08.2021";"Prepaid Kartenumsatz";"Store3 City2 Kai     City2     DE AccounNo 21.08.2021";"";"";"";"";"";"";"1,89";""
+9;"23.03.2021";"Prepaid Kartenumsatz";"Store1 14233 SOT  City2     DE AccounNo 20.08.2021";"";"";"";"";"";"";"7,99";""
+10;"17.04.2021";"Geldautomat Prepaid";"City               City      DE AccounNo 15.08.2021";"";"";"";"";"";"";"10,00";""
+11;"16.08.2021";"Prepaid Kartenumsatz";"Store3 City      DE AccounNo 14.08.2021";"";"";"";"";"";"";"3,78";""
+12;"13.07.2021";"Gutschrift Prepaid Card Konto";"Store1 PREPAID CARD KONTO 13.08.2021        IBAN: DE123456789";"";"";"";"";"";"";"";"6,00"
+13;"14.06.2021";"Gutschrift Prepaid Card Konto";"Store2 PREPAID CARD KONTO 14.06.2021        IBAN: DE123456789";"";"";"";"";"";"";"";"3,00"
+14;"30.11.2020";"Gutschrift Prepaid Card Konto";"Store3 PREPAID CARD KONTO 30.11.2020        IBAN: ";"";"";"";"";"";"";"";"1,00"
