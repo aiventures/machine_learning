@@ -7,6 +7,10 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 import traceback
 
+# References
+# Maybe it would have been easier to condense information on df basis
+# https://stackoverflow.com/questions/27298178/concatenate-strings-from-several-rows-using-pandas-groupby
+
 def read_file(f:str)->list:
     """ reading UTF8 txt File """
     lines = []
